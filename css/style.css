@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background: #0C0C0C;
+}
+
+.mein {
+    width: 600px;
+    height: 200px;
+    background: #FEFDED;
+    text-align: center;
+
+    border: 2px solid #FCDC2A;
+    border-radius: 10px;
+
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.one input {
+
+    width: 500px;
+    height: 70px;
+    font-size: 20px;
+    font-weight: 800;
+    color: #000;
+    border: 3px solid #1D24CA;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.two button {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    background: red;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.three{
+ width: 500px;
+ background: #fff;
+ border-radius: 20px;
+ text-align: center;
+ margin: 0 auto;
+ margin-top: 33px;
+ padding-top: 50px;
+}
